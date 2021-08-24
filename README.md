@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Visits Badge](https://badges.pufler.dev/visits/jokeayoade/jokeayoade)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jae_briggs)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/jokesayoade)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/jokeayoade)
