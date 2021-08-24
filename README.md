@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jokeayoade
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT in Front-End Web Dev.
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT for Front-End Web Dev.
 - 💞️ I’m looking to collaborate on any aspect of Web Development.
 - 📫 How to reach me ...
 
